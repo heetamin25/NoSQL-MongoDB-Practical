@@ -1,11 +1,24 @@
-# NoSQL Database using MongoDB — Practical 01 to 18
+# MongoDB Lab Submission
 
 **Name:** Heet Deepakkumar Amin  
-**USN:** 24BTLCL002
+**USN:** 24BTLCL002  
+**Subject:** NoSQL Database using MongoDB
 
-Each practical has its own folder with a Markdown report, the course activity scripts and a guide. The reports contain the aim, procedure, expected result and fields for recording the results of your own run.
+[Submission overview for all 18 practicals](experiments/README.md) · [Download the complete ZIP](NoSQL-MongoDB-Practicals.zip)
 
-[Download all 18 practicals as a ZIP](NoSQL-MongoDB-Practicals.zip)
+## Practical reports
+
+Open a chapter in the experiment index to read or print its practical report. Each report includes the aim, procedure, activity commands, expected results, and space to record actual output.
+
+## Folder guide
+
+| Folder or file | Contents |
+| --- | --- |
+| [`experiments/`](experiments/) | Practical reports, course guides, and lab scripts for Chapters 01–18 |
+| [`setup/`](setup/) | Instructions for installing MongoDB and the lab tools |
+| [`config/`](config/) | Shared MongoDB connection helper |
+| [`requirements.txt`](requirements.txt) | Python dependencies used across the labs |
+| [`NoSQL-MongoDB-Practicals.zip`](NoSQL-MongoDB-Practicals.zip) | Downloadable copy of all 18 practicals |
 
 ## Experiment index
 
